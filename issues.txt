@@ -12,3 +12,9 @@ NAS
 
 EOS
 1. Draft version done (not test cuz my Mac only have 4GB RAM)
+
+
+--------
+
+Last Trip:
+0x69b447c43886b4a5db7a3b1de4062470797c2930
